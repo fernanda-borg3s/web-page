@@ -18,11 +18,10 @@ O objetivo principal foi **praticar e aperfeiçoar habilidades de composição d
 
 ## Funcionalidades e seções do template
 
-- ✅ Cabeçalho com logotipo e menu de navegação
-- ✅ Seção sobre: descrição da escola ou universidade
-- ✅ Destaque para cursos, eventos ou serviços
-- ✅ Rodapé com informações de contato e redes sociais
-- ✅ Layout 100% responsivo (desktop, tablet e celular)
+- Cabeçalho com logotipo e menu de navegação
+- Seção sobre: descrição da escola ou universidade
+- Destaque para cursos, eventos ou serviços
+- Layout 100% responsivo (desktop, tablet e celular)
 
 ## Pré-visualização
 
@@ -34,4 +33,12 @@ O objetivo principal foi **praticar e aperfeiçoar habilidades de composição d
 Você pode clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/template-educacional.git
+git clone https://github.com/fernanda-borg3s/template-web.git
+```
+
+## Acesso online:
+
+Você pode visualizar online por meio do link abaixo:
+```bash
+https://fernanda-borg3s.github.io/template-web/
+```
